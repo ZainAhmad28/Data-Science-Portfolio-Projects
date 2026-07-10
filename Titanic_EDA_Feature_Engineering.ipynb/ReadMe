@@ -1,1 +1,21 @@
+# Titanic EDA & Feature Engineering
 
+## Objective
+Perform Exploratory Data Analysis (EDA) and Feature Engineering on the Titanic dataset.
+
+## Skills Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Workflow
+- Data Cleaning
+- Missing Value Handling
+- Outlier Detection
+- Feature Engineering
+- Visualization
+
+## Result
+Prepared a clean dataset ready for machine learning.
