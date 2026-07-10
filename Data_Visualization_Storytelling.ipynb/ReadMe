@@ -1,1 +1,75 @@
+# 📊 Data Visualization & Storytelling
 
+## 📌 Objective
+The objective of this project is to analyze retail sales data and communicate meaningful business insights through effective data visualizations and storytelling techniques.
+
+---
+
+## 📂 Dataset
+- Superstore Sales Dataset
+- Source: Kaggle
+
+---
+
+## 🛠️ What I Did
+
+### 1. Data Loading
+- Imported the dataset using Pandas.
+- Explored the dataset structure and data types.
+
+### 2. Data Cleaning
+- Checked missing values.
+- Removed duplicate records.
+- Converted date columns into datetime format.
+- Created additional features such as Year, Month, and Quarter.
+
+### 3. Business Question Analysis
+Answered important business questions such as:
+- Which region has the highest sales?
+- Which product category generates the highest revenue?
+- Which customer segment contributes the most sales?
+- How do sales change over time?
+- Which variables are correlated?
+- Are there any sales outliers?
+
+### 4. Data Visualization
+Created multiple visualizations including:
+- Bar Charts
+- Line Charts
+- Pie Charts
+- Histograms
+- Box Plots
+- Scatter Plots
+- Correlation Heatmap
+
+### 5. Data Storytelling
+- Explained each visualization with business insights.
+- Provided business recommendations based on findings.
+
+### 6. Visualization Best Practices
+Applied important visualization principles including:
+- Data-Ink Ratio
+- 5-Second Rule
+- Appropriate Chart Selection
+- Clear Labels and Titles
+- Clean and Professional Design
+
+---
+
+## 📊 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## 🎯 Learning Outcomes
+- Data Visualization
+- Business Storytelling
+- Business Analytics
+- Dashboard Thinking
+- Insight Generation
+- Effective Data Communication
