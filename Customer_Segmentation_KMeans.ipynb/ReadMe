@@ -1,1 +1,70 @@
+# 👥 Customer Segmentation using K-Means Clustering
 
+## 📌 Objective
+The objective of this project is to segment customers into different groups based on their purchasing behavior using the K-Means Clustering algorithm.
+
+---
+
+## 📂 Dataset
+- Mall Customers Dataset
+- Source: Kaggle
+
+---
+
+## 🛠️ What I Did
+
+### 1. Data Loading
+- Loaded the dataset.
+- Explored dataset structure.
+
+### 2. Exploratory Data Analysis (EDA)
+- Checked missing values.
+- Removed unnecessary columns.
+- Analyzed customer information.
+
+### 3. Data Preprocessing
+- Encoded categorical features.
+- Standardized numerical data using StandardScaler.
+
+### 4. Dimensionality Reduction
+- Applied Principal Component Analysis (PCA) for visualization.
+
+### 5. Finding Optimal Clusters
+- Used the Elbow Method.
+- Evaluated clusters using Silhouette Score.
+
+### 6. K-Means Clustering
+- Built the K-Means model.
+- Assigned customers to different clusters.
+
+### 7. Cluster Analysis
+- Calculated average values for each cluster.
+- Interpreted customer characteristics.
+- Created customer personas.
+
+### 8. Data Visualization
+- Scatter Plot
+- Cluster Visualization
+- PCA Visualization
+- Elbow Curve
+
+---
+
+## 📊 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- PCA
+- K-Means Clustering
+
+---
+
+## 🎯 Learning Outcomes
+- Unsupervised Machine Learning
+- Customer Segmentation
+- PCA
+- Clustering
+- Business Insights
