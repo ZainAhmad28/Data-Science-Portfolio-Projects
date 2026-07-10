@@ -1,1 +1,70 @@
+# 💳 Credit Card Fraud Detection using Machine Learning
 
+## 📌 Objective
+The objective of this project is to build a machine learning model that can identify fraudulent credit card transactions and distinguish them from legitimate ones.
+
+---
+
+## 📂 Dataset
+- Credit Card Fraud Detection Dataset
+- Source: Kaggle
+
+---
+
+## 🛠️ What I Did
+
+### 1. Data Loading
+- Loaded the dataset using Pandas.
+- Explored its structure and dimensions.
+
+### 2. Exploratory Data Analysis (EDA)
+- Checked dataset information.
+- Examined class distribution.
+- Identified the imbalance between fraud and non-fraud transactions.
+
+### 3. Data Preprocessing
+- Checked for missing values.
+- Removed duplicate records.
+- Scaled numerical features.
+- Split the dataset into training and testing sets.
+
+### 4. Handling Imbalanced Data
+- Applied SMOTE (Synthetic Minority Over-sampling Technique) to balance the training data.
+
+### 5. Model Training
+- Trained Logistic Regression.
+- Trained Random Forest Classifier.
+
+### 6. Model Evaluation
+Evaluated the models using:
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- ROC-AUC Score
+- Confusion Matrix
+
+### 7. Prediction
+- Tested the trained model on unseen data.
+- Predicted whether transactions were Fraudulent or Genuine.
+
+---
+
+## 📊 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Imbalanced-learn (SMOTE)
+- Jupyter Notebook
+
+---
+
+## 🎯 Learning Outcomes
+- Data Preprocessing
+- Handling Imbalanced Data
+- Machine Learning Classification
+- Model Evaluation
+- Fraud Detection
